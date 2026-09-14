@@ -105,3 +105,4 @@ conda run -n aquacore-test python run_sim.py --controller student --seed 1001 --
 
 - [EGO-Planner 论文](https://arxiv.org/abs/2008.08835)
 - [EGO-Planner 官方仓库](https://github.com/ZJU-FAST-Lab/ego-planner)
+
